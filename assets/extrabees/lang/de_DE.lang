@@ -294,16 +294,16 @@ extrabees.branch.tertiary.name=Tertiärer
 extrabees.branch.ftb.name=Scheußlich
 extrabees.branch.quantum.name=Quantum
 
-extrabees.flowers.water.name=Lily Pad
-extrabees.flowers.sugar.name=Reed
-extrabees.flowers.rock.name=Rocks
-extrabees.flowers.book.name=Books
-extrabees.flowers.dead.name=Dead Bush
+extrabees.flowers.water.name=Seerosenblatt
+extrabees.flowers.sugar.name=Zucker
+extrabees.flowers.rock.name=Felsen
+extrabees.flowers.book.name=Bücher
+extrabees.flowers.dead.name=Toter Busch
 extrabees.flowers.redstone.name=Redstone
-extrabees.flowers.wood.name=Wood
-extrabees.flowers.leaves.name=Leaves
-extrabees.flowers.sapling.name=Sapling
-extrabees.flowers.fruit.name=Fruit
+extrabees.flowers.wood.name=Holz
+extrabees.flowers.leaves.name=Blätter
+extrabees.flowers.sapling.name=Setzlinge
+extrabees.flowers.fruit.name=Frucht
 
 extrabees.species.arid.name=Arid
 extrabees.species.arid.desc=Fond of dry landscapes, their combs are quite waxy and contain less honey.|Apiarist Manual
