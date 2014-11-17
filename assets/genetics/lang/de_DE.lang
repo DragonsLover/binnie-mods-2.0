@@ -1,20 +1,20 @@
 ##################################################
 ## Machines
 genetics.machine.machine.isolator=Isolator
-genetics.machine.machine.isolator.info=The Isolator takes a random allele from a bee, tree or other individual and copies it into an empty sequence vial. This requires the use of ethanol as a solvent and an enzyme to cut up the DNA. The unsequenced serums can then be amplified in a Polymeriser and sequenced in a Sequencer.
+genetics.machine.machine.isolator.info=Der Isolator nimmt eine zufällige Gensequenz von einer Biene, einem Baum oder einem anderen Individuum und kopiert sie in eine leere Sequenz-Ampulle. Dies erfordert unter Verwendung von Ethanol als Lösungsmittel und eines Enzyms zum trennen der DNA. Die nicht sequenzierten Seren können dann in einem Polymerisator verstärkt und in einem Sequenzer sequenziert werden.
 genetics.machine.machine.sequencer=Sequenzer
-genetics.machine.machine.sequencer.info=The Sequencer takes unsequenced serums and determines which allele is present in them. This requires the use of fluorescent dye and has a long computational time.
+genetics.machine.machine.sequencer.info=Der Sequenzer nimmt nicht sequenzierte Seren und bestimmt, welche Gensequenz in ihnen vorhanden sind. Dies erfordert die Verwendung von Fluoreszenzfarbstoff und benötigt eine lange Rechenzeit.
 genetics.machine.machine.polymeriser=Polymerisator
-genetics.machine.machine.polymeriser.info=The Polymeriser takes serums and refills them using Raw DNA and replicating bacteria. This can be accelerated using gold nuggets.
+genetics.machine.machine.polymeriser.info=Das Polymerisator repliziert Seren in dem er rohe DNA in Bakterien injiziert. Dies kann mit Goldnuggets beschleunigt werden.
 genetics.machine.machine.inoculator=Inokulator
-genetics.machine.machine.inoculator.info=The Inoculator uses serums to add genes to breedable individuals. This process takes a very long time and requires a Bacteria Vector, but is 100% successful.
+genetics.machine.machine.inoculator.info=Die Inokulator verwendet Seren, um züchtbare Gene einzeln hinzuzufügen. Dieses Verfahren dauert sehr lange und erfordert eine Bakterium Vektor. Es ist zu 100% erfolgreich.
 genetics.machine.labMachine.genepool=Genepool
-genetics.machine.labMachine.genepool.info=The Genepool uses enzymes and ethanol to break down living things into DNA. All genetic information is lost and the source of the DNA is destroyed.
+genetics.machine.labMachine.genepool.info=Der Genepool nutzt Enzyme und Ethanol um Lebewesen in DNA zu zerlegen. Alle genetische Information gehen verloren, und die Quelle der DNA wird zerstört.
 genetics.machine.labMachine.labMachine=Laborständer
 genetics.machine.labMachine.analyser=Analysator
-genetics.machine.labMachine.analyser.info=The Analyser takes breedable individuals and DNA sequencers and analyses them to determine the genes present. This requires DNA Dye, created from purple dye and glowstone
+genetics.machine.labMachine.analyser.info=Der Analysator nimmt züchtbare Individuen und DNA-Sequenzer und analysiert sie, um die aktuellen Gene zu bestimmen. Dies erfordert DNA-Farbstoff, von Purpur und Leuchtstein.
 genetics.machine.labMachine.incubator=Brutschrank
-genetics.machine.labMachine.incubator.info=The Incubator combines liquids and items and allows them to sit at an ideal temperature to encourage bacterial growth.
+genetics.machine.labMachine.incubator.info=Der Brutschrank verbindet Flüssigkeiten und Gegenständen und erlaubt ihnen, bei einer idealen Temperatur das Bakterienwachstum zu fördern.
 genetics.machine.labMachine.acclimatiser=Reklimatisator
 genetics.machine.labMachine.acclimatiser.info=Der Reklimatisator wird verwendet, um die Temperatur- und Feuchtigkeitstoleranz bei Bienen bis zum Maximum von +5 einzustellen.
 
