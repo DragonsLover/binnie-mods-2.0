@@ -165,7 +165,6 @@ extrabees.machine.alveay.stimulator.desc=Verwendet Schaltungen und Buildcraft Le
 extrabees.machine.alveay.hatchery=Brutplatz
 extrabees.machine.alveay.hatchery.desc=Sammeln Larven die durch Bienenköniginnen innerhalb der Alveary gelegt werden.
 
-
 extrabees.machine.apiaristmachine=Imker Maschine
 extrabees.machine.acclimatiser=Reklimatisierer
 extrabees.machine.acclimatiser.desc=Die Reklimatisierer wird die Feuchtigkeits- oder Temperaturtoleranz einer Biene unter Verwendung bestimmter Elemente verändern.
@@ -184,49 +183,48 @@ extrabees.machine.purifier=Reiniger
 extrabees.machine.inoculator=Inoculator
 extrabees.machine.synthesizer=Synthesizer
 
-
 ##################################################
 ## Misc
 
 extrabees.circuitlayout.stimulator=Stimulator
-extrabees.tab.genetics=Genetics
+extrabees.tab.genetics=Genetik
 
-extrabees.genetics.quality.awful=Awful
-extrabees.genetics.quality.poor=Poor
-extrabees.genetics.quality.average=Average
-extrabees.genetics.quality.good=Good
-extrabees.genetics.quality.excellent=Excellent
+extrabees.genetics.quality.awful=schrecklich
+extrabees.genetics.quality.poor=schlecht
+extrabees.genetics.quality.average=mittelmäßig
+extrabees.genetics.quality.good=gut
+extrabees.genetics.quality.excellent=ausgezeichnet
 
-extrabees.genetics.quality.tooltip=%s Quality
+extrabees.genetics.quality.tooltip=%s Qualität
 
-extrabees.genetics.allele.shortest=Shortest
-extrabees.genetics.allele.shorter=Shorter
-extrabees.genetics.allele.short=Short
-extrabees.genetics.allele.shortened=Shortened
-extrabees.genetics.allele.normal=Normal
-extrabees.genetics.allele.elongated=Elongated
-extrabees.genetics.allele.long=Long
-extrabees.genetics.allele.longer=Longer
-extrabees.genetics.allele.longest=Longest
+extrabees.genetics.allele.shortest=kürzeste
+extrabees.genetics.allele.shorter=kürzere
+extrabees.genetics.allele.short=kurze
+extrabees.genetics.allele.shortened=verkürzte
+extrabees.genetics.allele.normal=normale
+extrabees.genetics.allele.elongated=verlängerte
+extrabees.genetics.allele.long=lange
+extrabees.genetics.allele.longer=längere
+extrabees.genetics.allele.longest=längste
 
-extrabees.genetics.allele.slowest=Slowest
-extrabees.genetics.allele.slower=Slower
-extrabees.genetics.allele.slow=Slow
-extrabees.genetics.allele.norm=Normal
-extrabees.genetics.allele.fast=Fast
-extrabees.genetics.allele.faster=Faster
-extrabees.genetics.allele.fastest=Fastest
+extrabees.genetics.allele.slowest=langsamste
+extrabees.genetics.allele.slower=langsamere
+extrabees.genetics.allele.slow=langsame
+extrabees.genetics.allele.norm=normale
+extrabees.genetics.allele.fast=schnelle
+extrabees.genetics.allele.faster=schnellere
+extrabees.genetics.allele.fastest=schnellste
 
-extrabees.genetics.allele.low=Low
-extrabees.genetics.allele.high=High
+extrabees.genetics.allele.low=Niedrig
+extrabees.genetics.allele.high=Hoch
 extrabees.genetics.allele.maximum=Maximum
 
-extrabees.genetics.allele.average=Average
+extrabees.genetics.allele.average=Durchschnitt
 
-extrabees.genetics.allele.default=Default
-extrabees.genetics.allele.large=Large
-extrabees.genetics.allele.larger=Larger
-extrabees.genetics.allele.largest=Largest
+extrabees.genetics.allele.default=Standard
+extrabees.genetics.allele.large=Lange
+extrabees.genetics.allele.larger=Längere
+extrabees.genetics.allele.largest=Längste
 
 extrabees.genetics.allele.none=None
 extrabees.genetics.allele.both1=Both 1
