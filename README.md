@@ -12,8 +12,8 @@ http://minecraft.curseforge.com/mc-mods/223525-binnies-mods
 - Genetics: Adds genetic manipulation for bees, trees, butterflies and flowers.
 
 Thanks to
-Sengir
-MysteriousAges
-Xizzzy
+- Sengir
+- MysteriousAges
+- Xizzzy
 
 and many others
