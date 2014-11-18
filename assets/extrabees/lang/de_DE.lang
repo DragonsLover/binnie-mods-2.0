@@ -387,24 +387,24 @@ extrabees.species.ripening.name=Reifend
 extrabees.species.fruit.name=Fruchtige
 extrabees.species.alcohol.name=Vergorene
 extrabees.species.alcohol.desc=Geh nach Hause Biene, du bist betrunken.|Jadedcat, Imker
-
-
-extrabees.species.farm.name=Farmed
-extrabees.species.milk.name=Bovine
-extrabees.species.milk.desc="Moo. I mean, Bzzz."|Confused Bee
-extrabees.species.coffee.name=Caffeinated
-extrabees.species.coffee.desc=The only drawback is that they don't actually brew the coffee for you.|Apiarist Manual
-extrabees.species.citrus.name=Citrus
-extrabees.species.mint.name=Minty
-extrabees.species.swamp.name=Damp
-extrabees.species.boggy.name=Boggy
-extrabees.species.fungal.name=Fungal
-extrabees.species.marble.name=Marbled
-extrabees.species.marble.desc="Whoa, these bees are chiseled!"|Mysterious Apiarist
-extrabees.species.roman.name=Gothic
-extrabees.species.roman.desc=I came, I saw, I conquered Punett squares.|Sengir Ceasar
+extrabees.species.farm.name=Landwirtschaftlich
+extrabees.species.milk.name=Rinder-
+extrabees.species.milk.desc="Muuuhhh. Ich meine, Bzzz."|verwirrte Biene
+extrabees.species.coffee.name=Koffeinhaltig
+extrabees.species.coffee.desc=Der einzige Nachteil ist eigentlich, dass sie den Kaffee nicht brauen.|Imker Handbuch
+extrabees.species.citrus.name=Zitrus
+extrabees.species.mint.name=Minzig
+extrabees.species.swamp.name=Feucht
+extrabees.species.boggy.name=Moorig
+extrabees.species.fungal.name=Pilz-
+extrabees.species.marble.name=marmoriert
+extrabees.species.marble.desc="Whoa, sind diese Bienen gemeißelt!"|Mysterious Imker
+extrabees.species.roman.name=Gotisch
+extrabees.species.roman.desc=Ich kam, ich sah, ich besiegte das Punnett-Quadrat.|Sengir Cäsar
 extrabees.species.greek.name=Renaissance
-extrabees.species.greek.desc=To bee or not to bee.|Beekeeper's conundrum
+extrabees.species.greek.desc=Zur Biene oder nicht zur Biene.|Imker Rätsel
+
+
 extrabees.species.classical.name=Classical
 extrabees.species.basalt.name=Embittered
 extrabees.species.basalt.desc=It is unknown how they first arrived in the Nether, but its influence has made them aggresive.|Apiarist Manual
