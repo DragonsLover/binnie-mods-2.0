@@ -449,23 +449,21 @@ extrabees.species.purple.name=Indigo
 extrabees.species.gray.name=Schiefer
 extrabees.species.lightblue.name=Azurblau
 extrabees.species.pink.name=Lavendel
-
-
-extrabees.species.limegreen.name=Lime
-extrabees.species.magenta.name=Fuchsia
-extrabees.species.lightgray.name=Ashen
-extrabees.species.celebratory.name=Celebratory
-extrabees.species.jaded.name=Jaded
-extrabees.species.jaded.desc=I bred all the bees and all I got is some bloody purple dye!|Jaded, Sengir's Chosen
-extrabees.species.glowstone.name=Glowering
-extrabees.species.hazardous.name=Hazardous
-extrabees.species.nickel.name=Lustered
-extrabees.species.invar.name=Lustrous
+extrabees.species.limegreen.name=Limette
+extrabees.species.magenta.name=Pinkfarbene
+extrabees.species.lightgray.name=Aschgrau
+extrabees.species.celebratory.name=Festliche
+extrabees.species.jaded.name=Erschöpfte
+extrabees.species.jaded.desc=Ich gezüchtet alle Bienen und alles was möglich war, was ich bekam war nur blut-roter Farbstoff!|Jaded, Sengir's Auserwählter
+extrabees.species.glowstone.name=Finstere
+extrabees.species.hazardous.name=Gefährliche
+extrabees.species.nickel.name=Gglänzende
+extrabees.species.invar.name=Schimmernde
 extrabees.species.quantum.name=Quantum
-extrabees.species.spatial.name=Spatial
-extrabees.species.unusual.name=Abnormal
+extrabees.species.spatial.name=Räumliche
+extrabees.species.unusual.name=Unnormale
 extrabees.species.yellorium.name=Yellorite
-extrabees.species.cyanite.name=Cyanite
+extrabees.species.cyanite.name=Cyanit
 extrabees.species.blutonium.name=Blutonium
 
 extrabees.effect.ectoplasm.name=Ektoplasma
