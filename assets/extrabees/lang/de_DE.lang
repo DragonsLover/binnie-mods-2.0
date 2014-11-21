@@ -132,7 +132,7 @@ extrabees.item.template.empty=leeres Template
 
 extrabees.block.apiaristMachine.name=Imker Maschine
 extrabees.block.geneticMachine.name=genetische Maschine
-extrabees.block.advGeneticMachine.name=vortschrittliche genetische Maschine
+extrabees.block.advGeneticMachine.name=fortschrittliche genetische Maschine
 
 extrabees.block.ectoplasm.name=Ektoplasma
 
@@ -144,9 +144,9 @@ extrabees.block.hive.3=Marmor Bienenstock
 ##################################################
 ## Liquids
 
-extrabees.liquid.acid=Sauer
+extrabees.liquid.acid=Säure
 extrabees.liquid.poison=Gift
-extrabees.liquid.glacial=Flüssigstickstoff
+extrabees.liquid.glacial=Flüssigen Stickstoff
 extrabees.liquid.dna=flüssige DNA
 
 ##################################################
@@ -222,9 +222,9 @@ extrabees.genetics.allele.maximum=Maximum
 extrabees.genetics.allele.average=Durchschnitt
 
 extrabees.genetics.allele.default=Standard
-extrabees.genetics.allele.large=Lange
-extrabees.genetics.allele.larger=Längere
-extrabees.genetics.allele.largest=Längste
+extrabees.genetics.allele.large=lange
+extrabees.genetics.allele.larger=längere
+extrabees.genetics.allele.largest=längste
 
 extrabees.genetics.allele.none=Nichts
 extrabees.genetics.allele.both1=beide 1
@@ -268,7 +268,7 @@ extrabees.branch.barren.desc=Obwohl diese Bienen zunächst wesentlich nutzlos si
 extrabees.branch.hostile.name=Feindlich
 extrabees.branch.hostile.desc=Neigt dazu, Monster aus heiterem Himmel zu beschwören. Diese Bienen sind trotz allem nützlich, auch wenn sie widerwärtig Produkte erzeugen.
 extrabees.branch.rocky.name=Felsig
-extrabees.branch.rocky.desc=Gefunden in den Felsen haben diese Bienen eine sehr hohen Tolaranz gegenüber ungünstigen Bedingungen.
+extrabees.branch.rocky.desc=Gefunden in den Felsen haben diese Bienen eine sehr hohe Tolaranz gegenüber ungünstigen Bedingungen.
 extrabees.branch.metallic.name=Rostig
 extrabees.branch.metallic2.name=Metallisch
 extrabees.branch.alloy.name=Legiert
@@ -306,7 +306,7 @@ extrabees.flowers.sapling.name=Setzlinge
 extrabees.flowers.fruit.name=Frucht
 
 extrabees.species.arid.name=Ausgetrocknet
-extrabees.species.arid.desc=Liebt die trockenen Landschaften, ihre Waben sind sehr wachsartig und enthalten weniger Honig.|Imker Handbuch
+extrabees.species.arid.desc=Liebt die trockenen Landschaften, ihre Waben haben einen hohen Wachsgehalt, dafür aber weniger Honig.|Imker Handbuch
 extrabees.species.barren.name=Unfruchtbar
 extrabees.species.barren.desc=Möglichst in Wüsten, können sie ihr ganzes Leben lang, ohne Blumen jeglicher Art zu sehen leben.|Imker Handbuch
 extrabees.species.desolate.name=Trostlos
@@ -317,10 +317,10 @@ extrabees.species.rotten.desc=Diese Bienen haben eine ungewöhnliche Anziehung z
 extrabees.species.bone.name=Knochig
 extrabees.species.bone.desc=Weitgehend unfähig, ihre Bienenstöcke in freier Wildbahn zu verteidigen, holen sie andere Kreaturen in ihre Häuser um diese zu bewachen.|Imker Handbuch
 extrabees.species.creeper.name=Creepy
-extrabees.species.creeper.desc=Sie sind sicher, einen Knall aus diesen Bienen zu bekommen.|Binnie, Imker
+extrabees.species.creeper.desc=Sie sind sicher, einen Knall von diesen Bienen zu bekommen.|Binnie, Imker
 extrabees.species.decomposing.name=Zersetzen
 extrabees.species.rock.name=Felsen
-extrabees.species.rock.desc=Wenn nur ich felsige Bienen finde, dann könnte ich gute Musik bekommen.|Mysterious Imker
+extrabees.species.rock.desc=Wenn ich nur felsige Bienen finde würde, dann könnte ich gute Musik bekommen.|Mysterious Imker
 extrabees.species.stone.name=Tolerantz
 extrabees.species.stone.desc=Ein Teil ihrer Bienenstöcke ist aus Stein gebaut und verbrauchen weniger Wachs als normal.|Imker Handbuch
 extrabees.species.granite.name=Robust
@@ -328,7 +328,7 @@ extrabees.species.granite.desc=Sie sind in der Lage, sich durch festen Fels zu g
 extrabees.species.mineral.name=Elastisch
 extrabees.species.mineral.desc=Generationen von Nachkommen in der Zucht von felsige Bienen haben begonnen, Mineralstoffe als Teil ihrer Ernährung zu benutzen.|Imker Handbuch
 extrabees.species.copper.name=Korrodiert
-extrabees.species.copper.desc=Sie sind berüchtigt für Stromversorgungsprobleme durch nagen an den Kupferdrähten in Wänden.|Imker Handbuch
+extrabees.species.copper.desc=Sie sind berüchtigt für Stromversorgungsprobleme durch das Durchnagen der Kupferdrähten in Wänden.|Imker Handbuch
 extrabees.species.tin.name=Blind
 extrabees.species.tin.desc=Ihre Körper haben eine metallische Beschichtung, die sie vergießen und in ihre Waben integrieren.|Imker Handbuch
 extrabees.species.iron.name=Rostig
@@ -409,9 +409,9 @@ extrabees.species.basalt.desc=Es ist nicht bekannt, wie sie zum ersten Mal in de
 extrabees.species.tempered.name=Wütend
 extrabees.species.tempered.desc=Eine ungewöhnliche Mutation rezessiver Gene, die ein hohes Maß an Wut in diesen Bienen verursacht.|Imker Handbuch
 extrabees.species.angry.name=Zornig
-extrabees.species.angry.desc=Zunehmende Wut habe sie veranlasst, ein anderes Ventil für ihre Aggressionen zu finden.|Imker Handbuch
+extrabees.species.angry.desc=Zunehmende Wut hat sie veranlasst, ein anderes Ventil für ihre Aggressionen zu finden.|Imker Handbuch
 extrabees.species.volcanic.name=Vulkanisch
-extrabees.species.volcanic.desc=Irgendwann im Laufe ihrer Evolution, scheinen sie die Eigenschaften von Blazes erworbener zu haben.|Imker Handbuch
+extrabees.species.volcanic.desc=Irgendwann im Laufe ihrer Evolution, scheinen sie die Eigenschaften von Blazes erworben zu haben.|Imker Handbuch
 extrabees.species.malicious.name=Bösartig
 extrabees.species.infectious.name=Infektiöse
 extrabees.species.virulent.name=Virulent
@@ -422,11 +422,11 @@ extrabees.species.corrosive.name=Korrosive
 extrabees.species.caustic.name=Ätzend
 extrabees.species.acidic.name=Saure
 extrabees.species.excited.name=Aufgeregte
-extrabees.species.excited.desc=Redstone wirkt als Quelle für zusätzliche Energie für diese Bienen.|Imker Handbuch
+extrabees.species.excited.desc=Redstone wirkt als Quelle zusätzlicher Energie für diese Bienen.|Imker Handbuch
 extrabees.species.energetic.name=Energiegelade
 extrabees.species.energetic.desc=Oh mein Gott. Ist etwas passiert. Das Haus ist angezündet, das Haus brennt.|Generikb, panischer Imker
 extrabees.species.ecstatic.name=Ekstatische
-extrabees.species.ecstatic.desc=Nach dem Einsammeln übermäßiger statische Elektrizität von Redstone, produzieren sie mächtige Blitzlichtbögen. Seien Sie vorsichtig, sonst sind Sie vielleicht der Blitzableiter.|Imker Handbuch
+extrabees.species.ecstatic.desc=Nach dem Einsammeln übermäßiger statischer Elektrizität von Redstone, produzieren sie mächtige Blitzlichtbögen. Seien Sie vorsichtig, sonst sind Sie vielleicht der Blitzableiter.|Imker Handbuch
 extrabees.species.artic.name=Eisige
 extrabees.species.freezing.name=Absolute
 extrabees.species.shadow.name=Shadowed
