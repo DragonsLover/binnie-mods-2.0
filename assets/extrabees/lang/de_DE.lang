@@ -154,16 +154,20 @@ extrabees.liquid.dna=flüssige DNA
 
 extrabees.machine.alveay.frame=Rahmengehäuse
 extrabees.machine.alveay.frame.desc=Das Rahmengehäuse enthält ein Rähmchen um Merkmale einer Biene zu ändern.
+extrabees.machine.alveay.frame.info=Das Rahmengehäuse enthält ein Rähmchen um Merkmale einer Biene zu ändern.
 extrabees.machine.alveay.lighting=Beleuchtung
 extrabees.machine.alveay.lighting.desc=Die Beleuchtung lässt die Bienen denken, es ist Tageslicht in der Nacht.
 extrabees.machine.alveay.mutator=Mutator
 extrabees.machine.alveay.mutator.desc=Der Mutator verwendet bestimmte Elemente, um Bienenmutation zu fördern.
+extrabees.machine.alveay.mutator.info=Der Mutator verwendet bestimmte Elemente, um Bienenmutation zu fördern.
 extrabees.machine.alveay.rainShield=Regenschild
 extrabees.machine.alveay.rainShield.desc=Der Regenschild verhindert, dass Bienen durch Niederschlag beeinträchtigt werden.
 extrabees.machine.alveay.stimulator=Elektrostimulatoren
 extrabees.machine.alveay.stimulator.desc=Verwendet Schaltungen und Buildcraft Leistung für Bienen um sie in einer Weise ähnlich zu stimulieren wie Frames.
+extrabees.machine.alveay.stimulator.info=Verwendet Schaltungen und Buildcraft Leistung für Bienen um sie in einer Weise ähnlich zu stimulieren wie Frames.
 extrabees.machine.alveay.hatchery=Brutplatz
 extrabees.machine.alveay.hatchery.desc=Sammeln Larven die durch Bienenköniginnen innerhalb der Alveary gelegt werden.
+extrabees.machine.alveay.hatchery.info=Sammeln Larven die durch Bienenköniginnen innerhalb der Alveary gelegt werden.
 
 extrabees.machine.apiaristmachine=Imker Maschine
 extrabees.machine.acclimatiser=Reklimatisierer
