@@ -160,36 +160,37 @@ extratrees.block.planks.forestry.plum.desc=
 extratrees.block.planks.forestry.maple.desc=
 extratrees.block.planks.forestry.citrus.desc=
 
-
 ##################################################
 ## Species
-extratrees.species.orchardapple.name=Orchard Apple
-extratrees.species.sweetcrabapple.name=Sweet Crabapple
-extratrees.species.floweringcrabapple.name=Flowering Crabapple
-extratrees.species.prairiecrabapple.name=Prairie Crabapple
-extratrees.species.blackthorn.name=Blackthorn
-extratrees.species.cherryplum.name=Cherry Plum
-extratrees.species.peach.name=Peach
-extratrees.species.nectarine.name=Nectarine
-extratrees.species.apricot.name=Apricot
-extratrees.species.almond.name=Almond
-extratrees.species.wildcherry.name=Wild Cherry
-extratrees.species.sourcherry.name=Sour Cherry
-extratrees.species.blackcherry.name=Black Cherry
+extratrees.species.orchardapple.name=Obstgarten Apfel
+extratrees.species.sweetcrabapple.name=süßer Holzapfel
+extratrees.species.floweringcrabapple.name=blühender Holzapfel
+extratrees.species.prairiecrabapple.name=Prärie-Holzapfel
+extratrees.species.blackthorn.name=Schwarzdorn
+extratrees.species.cherryplum.name=Kirschpflaume
+extratrees.species.peach.name=Pfirsich
+extratrees.species.nectarine.name=Nektarine
+extratrees.species.apricot.name=Aprikose
+extratrees.species.almond.name=Mandel
+extratrees.species.wildcherry.name=wilde Kirsche
+extratrees.species.sourcherry.name=Sauerkirsche
+extratrees.species.blackcherry.name=Schwarzkirsche
 extratrees.species.orange.name=Orange
-extratrees.species.manderin.name=Manderine
+extratrees.species.manderin.name=Mandarine
 extratrees.species.satsuma.name=Satsuma
-extratrees.species.tangerine.name=Tangerine
-extratrees.species.lime.name=Lime
-extratrees.species.keylime.name=Key Lime
-extratrees.species.fingerlime.name=Finger Lime
-extratrees.species.pomelo.name=Pomelo
+extratrees.species.tangerine.name=Mandarine
+extratrees.species.lime.name=Limette
+extratrees.species.keylime.name=Echte Limette
+extratrees.species.fingerlime.name=Fingerlimette
+extratrees.species.pomelo.name=Pampelmuse
 extratrees.species.grapefruit.name=Grapefruit
 extratrees.species.kumquat.name=Kumquat
-extratrees.species.citron.name=Citron
+extratrees.species.citron.name=Zitrone
 extratrees.species.buddhahand.name=Buddha's Hand
-extratrees.species.banana.name=Banana
-extratrees.species.redbanana.name=Red Banana
+extratrees.species.banana.name=Banane
+extratrees.species.redbanana.name=rote Banana
+
+
 extratrees.species.plantain.name=Plantain
 extratrees.species.butternut.name=Butternut
 extratrees.species.rowan.name=Common Rowan
