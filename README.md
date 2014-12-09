@@ -18,3 +18,8 @@ Thanks to
 - Xizzzy
 
 and many others
+
+Users:
+ReneMuetti - German
+Schorsch38 - German
+Muravlov - Russian
