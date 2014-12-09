@@ -20,6 +20,6 @@ Thanks to
 and many others
 
 Users:
-ReneMuetti - German
-Schorsch38 - German
-Muravlov - Russian
+- ReneMuetti - German
+- Schorsch38 - German
+- Muravlov - Russian
