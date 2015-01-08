@@ -69,6 +69,7 @@ binniecore.rootTrees.chromosome.territory=Territorium
 binniecore.rootTrees.chromosome.effect=Effekt
 binniecore.rootTrees.chromosome.maturation=Reifung
 binniecore.rootTrees.chromosome.girth=Umfang
+binniecore.rootTrees.chromosome.fireproof=Feuerfest
 
 binniecore.rootButterflies.chromosome.species=Tierart
 binniecore.rootButterflies.chromosome.size=Größe
@@ -115,3 +116,10 @@ binniecore.machine.storage.compartmentDiamond=Diamant Bereich
 binniecore.machine.storage.compartmentCopper=Kupfer Bereich
 binniecore.machine.storage.compartmentBronze=Bronze Bereich
 binniecore.machine.storage.compartmentGold=Gold Bereich
+
+binniecore.rootBees.fieldkit.species.0=#name# #type#!
+binniecore.rootBees.fieldkit.species.1=Höchstwahrscheinlich eine #name# Biene
+binniecore.rootBees.fieldkit.species.2=Die Markierungen identifiziert sie als #name# Biene
+binniecore.rootBees.fieldkit.species.3=#latin#, ist auch als #name# Biene bekannt
+
+binniecore.rootBees.fieldKit.speed.0=Scheint eine #name# Lebensdauer zu haben
