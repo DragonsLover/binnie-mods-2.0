@@ -130,9 +130,6 @@ extrabees.item.template.corrupted=Corrupted Template
 extrabees.item.template.name=%s Template
 extrabees.item.template.empty=Blank Template
 
-
-
-
 extrabees.block.apiaristMachine.name=Apiarist Machine
 extrabees.block.geneticMachine.name=Genetic Machine
 extrabees.block.advGeneticMachine.name=Advanced Genetic Machine
@@ -144,7 +141,6 @@ extrabees.block.hive.1=Rock Hive
 extrabees.block.hive.2=Nether Hive
 extrabees.block.hive.3=Marble Hive
 
-
 ##################################################
 ## Liquids
 
@@ -152,9 +148,6 @@ extrabees.liquid.acid=Acid
 extrabees.liquid.poison=Poison
 extrabees.liquid.glacial=Liquid Nitrogen
 extrabees.liquid.dna=Liquid DNA
-
-
-
 
 ##################################################
 ## Machines
@@ -171,7 +164,6 @@ extrabees.machine.alveay.stimulator=Electrical Stimulator
 extrabees.machine.alveay.stimulator.desc=Uses circuits and Buildcraft power to stimulate bees in a way similar to frames.
 extrabees.machine.alveay.hatchery=Hatchery
 extrabees.machine.alveay.hatchery.desc=Collect larvae laid by queen bees inside the alveary.
-
 
 extrabees.machine.apiaristmachine=Apiarist Machine
 extrabees.machine.acclimatiser=Acclimatiser
@@ -190,9 +182,6 @@ extrabees.machine.replicator=Replicator
 extrabees.machine.purifier=Purifier
 extrabees.machine.inoculator=Inoculator
 extrabees.machine.synthesizer=Synthesiser
-
-
-
 
 ##################################################
 ## Misc
@@ -273,8 +262,6 @@ extrabees.genetics.allele.caveDwelling=Cave Dwelling
 extrabees.genetics.allele.tolerantFlyer=Rainfall
 
 extrabees.genetics.corrupted=Corrupted
-
-
 
 extrabees.branch.barren.name=Barren
 extrabees.branch.barren.desc=Although initially these bees are considerably useless due to their meagre combs, they can lead onto greater things.
