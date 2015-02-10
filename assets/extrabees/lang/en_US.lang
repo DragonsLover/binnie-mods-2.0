@@ -164,30 +164,24 @@ extrabees.machine.alveay.stimulator=Electrical Stimulator
 extrabees.machine.alveay.stimulator.desc=Uses circuits and Buildcraft power to stimulate bees in a way similar to frames.
 extrabees.machine.alveay.hatchery=Hatchery
 extrabees.machine.alveay.hatchery.desc=Collect larvae laid by queen bees inside the alveary.
-
-extrabees.machine.apiaristmachine=Apiarist Machine
-extrabees.machine.acclimatiser=Acclimatiser
-extrabees.machine.acclimatiser.desc=The Acclimatiser is used to alter the humidity or temperature tolerance of a bee using certain items.
-extrabees.machine.databank=Databank
-extrabees.machine.indexer=Indexer
-
-extrabees.machine.geneticmachine=Genetic Machine
-extrabees.machine.genepool=Genepool
-extrabees.machine.sequencer=Sequencer
-extrabees.machine.splicer=Splicer
-
-extrabees.machine.advancedgeneticmachine=Advanced Genetic Machine
-extrabees.machine.isolator=Isolator
-extrabees.machine.replicator=Replicator
-extrabees.machine.purifier=Purifier
-extrabees.machine.inoculator=Inoculator
-extrabees.machine.synthesizer=Synthesiser
+extrabees.machine.alveay.transmission=Alveary Transmission
 
 ##################################################
 ## Misc
 
-extrabees.circuitlayout.stimulator=Stimulator
+extrabees.circuit.layout.stimulator=Electrical Stimulator
+extrabees.circuit.layout.stimulator.usage=In Electrical Stimulators
 extrabees.tab.genetics=Genetics
+
+for.binnie.circuit.stimulator.lowvoltage=LV Stimulus
+for.binnie.circuit.stimulator.highvoltage=HV Stimulus
+for.binnie.circuit.stimulator.plant=Biotic Stimulus
+for.binnie.circuit.stimulator.death=Charged Stimulus
+for.binnie.circuit.stimulator.life=Gentle Stimulus
+for.binnie.circuit.stimulator.nether=Molten Stimulus
+for.binnie.circuit.stimulator.mutation=Mutagenic Stimulus
+for.binnie.circuit.stimulator.inhibitor=Inhibiting Stimulus
+for.binnie.circuit.stimulator.territory=Agitating Stimulus
 
 extrabees.genetics.quality.awful=Awful
 extrabees.genetics.quality.poor=Poor
