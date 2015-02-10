@@ -19,10 +19,9 @@ extratrees.machine.machine.panelworker=Panelworker
 extratrees.machine.machine.panelworker.desc=The Panelworker creates patterned wooden panels from two different woods.
 extratrees.machine.machine.glassworker=Glassworker
 extratrees.machine.machine.glassworker.desc=The Glassworker creates patterned stained glass.
-        
+extratrees.machine.machine.tileworker=Tileworker
+extratrees.machine.machine.tileworker.desc=The Tileworker creates patterned ceramic tiles.
 
-        
-        
 extratrees.block.planks.fir=Fir
 extratrees.block.planks.cedar=Cedar
 extratrees.block.planks.hemlock=Hemlock
@@ -95,8 +94,6 @@ extratrees.block.planks.ebxl.redwood=Redwood
 extratrees.block.planks.ebxl.fir=Scottish Fir
 extratrees.block.planks.ebxl.acacia=Excel Acacia
 
-
-
 extratrees.block.planks.fir.desc=A good sturdy conifer wood.|Lumber Jack
 extratrees.block.planks.cedar.desc=A red tinged softwood.|Lumber Jack
 extratrees.block.planks.hemlock.desc=Hemlock gives a green hued conifer wood.|Lumber Jack
@@ -164,10 +161,6 @@ extratrees.block.planks.forestry.pine.desc=
 extratrees.block.planks.forestry.plum.desc=
 extratrees.block.planks.forestry.maple.desc=
 extratrees.block.planks.forestry.citrus.desc=
-
-
-
-
 
 extratrees.species.orchardapple.name=Orchard Apple
 extratrees.species.sweetcrabapple.name=Sweet Crabapple
@@ -269,8 +262,6 @@ extratrees.species.mango.name=Mango
 extratrees.species.starfruit.name=Starfruit
 extratrees.species.candlenut.name=Candlenut
 extratrees.species.dwarfhazel.name=Dwarf Hazel
-
-
 
 extratrees.item.food.apple=Apple
 extratrees.item.food.crabapple=Crabapple
