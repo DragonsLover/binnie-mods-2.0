@@ -163,35 +163,29 @@ extrabees.machine.alveay.mutator.info=Der Mutator verwendet bestimmte Elemente, 
 extrabees.machine.alveay.rainShield=Regenschild
 extrabees.machine.alveay.rainShield.desc=Der Regenschild verhindert, dass Bienen durch Niederschlag beeinträchtigt werden.
 extrabees.machine.alveay.stimulator=Elektrostimulatoren
-extrabees.machine.alveay.stimulator.desc=Verwendet Schaltungen und Buildcraft Leistung für Bienen um sie in einer Weise ähnlich zu stimulieren wie Frames.
-extrabees.machine.alveay.stimulator.info=Verwendet Schaltungen und Buildcraft Leistung für Bienen um sie in einer Weise ähnlich zu stimulieren wie Frames.
+extrabees.machine.alveay.stimulator.desc=Verwendet Schaltungen und Buildcraft Leistung für Bienen um sie in einer Weise ähnlich zu stimulieren wie Rahmen.
+extrabees.machine.alveay.stimulator.info=Verwendet Schaltungen und Buildcraft Leistung für Bienen um sie in einer Weise ähnlich zu stimulieren wie Rahmen.
 extrabees.machine.alveay.hatchery=Brutplatz
-extrabees.machine.alveay.hatchery.desc=Sammeln Larven die durch Bienenköniginnen innerhalb der Alveary gelegt werden.
-extrabees.machine.alveay.hatchery.info=Sammeln Larven die durch Bienenköniginnen innerhalb der Alveary gelegt werden.
-
-extrabees.machine.apiaristmachine=Imker Maschine
-extrabees.machine.acclimatiser=Reklimatisierer
-extrabees.machine.acclimatiser.desc=Die Reklimatisierer wird die Feuchtigkeits- oder Temperaturtoleranz einer Biene unter Verwendung bestimmter Elemente verändern.
-extrabees.machine.databank=Datenbank
-extrabees.machine.indexer=Indexer
-
-extrabees.machine.geneticmachine=genetische Machine
-extrabees.machine.genepool=Genpool
-extrabees.machine.sequencer=Sequenzer
-extrabees.machine.splicer=Spleißer
-
-extrabees.machine.advancedgeneticmachine=erweiterte genetische Machine
-extrabees.machine.isolator=Isolator
-extrabees.machine.replicator=Replikator
-extrabees.machine.purifier=Reiniger
-extrabees.machine.inoculator=Inoculator
-extrabees.machine.synthesizer=Synthesizer
+extrabees.machine.alveay.hatchery.desc=Sammeln Larven die durch Bienenköniginnen innerhalb des Bienenstock gelegt werden.
+extrabees.machine.alveay.hatchery.info=Sammeln Larven die durch Bienenköniginnen innerhalb des Bienenstock gelegt werden.
+extrabees.machine.alveay.transmission=Bienenstock Übertragung
 
 ##################################################
 ## Misc
 
-extrabees.circuitlayout.stimulator=Stimulator
+extrabees.circuit.layout.stimulator=elektrischer Stimulator
+extrabees.circuit.layout.stimulator.usage=In Elektrischen Stimulatoren
 extrabees.tab.genetics=Genetik
+
+for.binnie.circuit.stimulator.lowvoltage=LV Stimulierung
+for.binnie.circuit.stimulator.highvoltage=HV Stimulierung
+for.binnie.circuit.stimulator.plant=biotische Stimulierung
+for.binnie.circuit.stimulator.death=geladene Stimulierung
+for.binnie.circuit.stimulator.life=leicht Stimulierung
+for.binnie.circuit.stimulator.nether=geschmolze Stimulierung
+for.binnie.circuit.stimulator.mutation=mutierende Stimulierung
+for.binnie.circuit.stimulator.inhibitor=hemmende Stimulierung
+for.binnie.circuit.stimulator.territory=bewegende Stimulierung
 
 extrabees.genetics.quality.awful=schrecklich
 extrabees.genetics.quality.poor=schlecht
