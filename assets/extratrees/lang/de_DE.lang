@@ -1,7 +1,9 @@
 ##################################################
 ## Machines
+
 extratrees.machine.kitchen.bar=Rinde
 extratrees.machine.kitchen.bottleRack=Flaschenregal
+
 extratrees.machine.machine.brewery=Brauerei
 extratrees.machine.machine.brewery.info=Die Brauerei verwendet Hefen, Säfte und Getreide, um unterschiedliche Weine und Biere herzustellen.
 extratrees.machine.machine.distillery=Brennerei
@@ -17,9 +19,9 @@ extratrees.machine.machine.panelworker=Panelworker
 extratrees.machine.machine.panelworker.desc=Die Panelworker erstellt gemusterten Holzplatten aus zwei verschiedenen Holzarten.
 extratrees.machine.machine.glassworker=Glassworker
 extratrees.machine.machine.glassworker.desc=Der Glassworker erstellt gemustertes farbiges Glass.
+extratrees.machine.machine.tileworker=Fliesenpresse
+extratrees.machine.machine.tileworker.desc=Die Fliesenpresse erzeugt gemusterten Keramikplatten.
 
-##################################################
-## Planks
 extratrees.block.planks.fir=Tanne
 extratrees.block.planks.cedar=Zeder
 extratrees.block.planks.hemlock=Hemlocktanne
@@ -54,7 +56,7 @@ extratrees.block.planks.olive=Olive
 extratrees.block.planks.sweetgum=Amber
 extratrees.block.planks.rosewood=Rosenholz
 extratrees.block.planks.gingko=Gingko
-extratrees.block.planks.pinkivory=Pink Ivory
+extratrees.block.planks.pinkivory=Pink Ivory (rosa Elfenbein)
 
 extratrees.block.planks.vanilla.oak=Eiche
 extratrees.block.planks.vanilla.spruce=Fichte
@@ -160,8 +162,6 @@ extratrees.block.planks.forestry.plum.desc=
 extratrees.block.planks.forestry.maple.desc=
 extratrees.block.planks.forestry.citrus.desc=
 
-##################################################
-## Species
 extratrees.species.orchardapple.name=Obstgarten Apfel
 extratrees.species.sweetcrabapple.name=süßer Holzapfel
 extratrees.species.floweringcrabapple.name=blühender Holzapfel
@@ -263,9 +263,6 @@ extratrees.species.starfruit.name=Sternfrucht
 extratrees.species.candlenut.name=Lichtnuss
 extratrees.species.dwarfhazel.name=Zwerg-Haselnuss
 
-
-##################################################
-## items
 extratrees.item.food.apple=Apfel
 extratrees.item.food.crabapple=Holzapfel
 extratrees.item.food.orange=Orange
@@ -280,25 +277,32 @@ extratrees.item.food.almond=Mandel
 extratrees.item.food.apricot=Aprikosen
 extratrees.item.food.grapefruit=Pampelmuse
 extratrees.item.food.peach=Pfirsich
+
 extratrees.item.food.satsuma=Satsuma
 extratrees.item.food.buddhahand=Buddhas Hand
 extratrees.item.food.citron=Zitrone
 extratrees.item.food.fingerlime=Finger Linde
 extratrees.item.food.keylime=Limetten
+
 extratrees.item.food.manderin=Manderine
 extratrees.item.food.nectarine=Nektarine
+
 extratrees.item.food.pomelo=Pomelo
 extratrees.item.food.tangerine=Tangerine
 extratrees.item.food.pear=Birne
 extratrees.item.food.sandpear=Sand Birne
+
 extratrees.item.food.hazelnut=Haselnuss
 extratrees.item.food.butternut=Butternuss
 extratrees.item.food.beechnut=Buchecker
 extratrees.item.food.pecan=Pekannuss
+
 extratrees.item.food.banana=Banane
 extratrees.item.food.redbanana=rote Banane
 extratrees.item.food.plantain=Wegerich
+
 extratrees.item.food.brazilnut=Paranuss
+
 extratrees.item.food.fig=Feige
 extratrees.item.food.acorn=Eichel
 extratrees.item.food.elderberry=Holunderbeere
@@ -307,7 +311,9 @@ extratrees.item.food.gingkonut=Gingko-Nuss
 extratrees.item.food.coffee=Kaffee
 extratrees.item.food.osangeorange=Milchorange
 extratrees.item.food.clove=Nelke
+
 extratrees.item.food.papayimar=Papayimar
+
 extratrees.item.food.blackcurrant=Schwarze Johannisbeere
 extratrees.item.food.redcurrant=Rote Johannisbeere
 extratrees.item.food.blackberry=Brombeere
@@ -317,6 +323,7 @@ extratrees.item.food.cranberry=Moosbeere
 extratrees.item.food.juniper=Wacholder
 extratrees.item.food.gooseberry=Stachelbeere
 extratrees.item.food.goldenraspberry=Goldene Himbeere
+
 extratrees.item.food.coconut=Kokosnuss
 extratrees.item.food.cashew=Cashew
 extratrees.item.food.avacado=Avacado
