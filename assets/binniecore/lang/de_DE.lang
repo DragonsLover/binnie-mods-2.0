@@ -99,6 +99,34 @@ binniecore.rootFlowers.chromosome.ph_tolerance=pH Toleranz
 binniecore.rootFlowers.chromosome.sappiness=Nektar
 binniecore.rootFlowers.chromosome.stem=Stängelfarbe
 
+binniecore.allele.fertility.low=Niedrig
+binniecore.allele.fertility.normal=Normal
+binniecore.allele.fertility.high=Hoch
+binniecore.allele.fertility.maximum=Maximum
+
+binniecore.allele.true=Ja
+binniecore.allele.false=Nein
+
+binniecore.allele.metabolism.highest=Höchster
+binniecore.allele.metabolism.higher=Höher
+binniecore.allele.metabolism.high=Hoch
+binniecore.allele.metabolism.average=Mittel
+binniecore.allele.metabolism.slow=Langsam
+binniecore.allele.metabolism.slower=Langsamer
+binniecore.allele.metabolism.slowest=Langsamste
+
+binniecore.allele.none=Keine
+
+binniecore.allele.growth.tropical=Tropisch
+binniecore.allele.growth.lightlevel=Lichtstärke
+
+binniecore.beemodifier.territory=Territorium
+binniecore.beemodifier.mutation=Mutation
+binniecore.beemodifier.lifespan=Lebensdauer
+binniecore.beemodifier.production=Produktion
+binniecore.beemodifier.flowering=Blüten
+binniecore.beemodifier.geneticdecay=genetischer Verfall
+
 binniecore.gui.breedingmessage.species=Arten entdeckt
 binniecore.gui.breedingmessage.branch=Gattung entdeckt
 binniecore.gui.breedingmessage.epithet=Beiname gefunden
