@@ -1,9 +1,12 @@
 binnie-mods-2.0
 ===============
 
-Biennie-Mods 2.0
+Binnie-Mods 2.0
+
 http://minecraft.curseforge.com/mc-mods/223525-binnies-mods
+
 Bug-Tracker:
+
 https://bitbucket.org/binnie567/binnie-mods/issues
 
 - Binnie Core: Base mod for Binnie's Mods, with lots of common code.
